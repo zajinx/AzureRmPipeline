@@ -22,3 +22,4 @@ steps:
     csmFileLink: 'https://raw.githubusercontent.com/zajinx/AzureRmPipeline/main/CreateWebApp/azuredeploy.json?token=AD3NVGTJCMN23XF2WJNKJ6DAIH554'
     overrideParameters: '-projectName myampipeline'
     deploymentMode: 'Incremental'
+    deploymentName: 'DeployPipelineTemplate'
