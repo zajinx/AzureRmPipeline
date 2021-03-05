@@ -20,6 +20,6 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/zajinx/AzureRmPipeline/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName myampipeline'
+    overrideParameters: '-projectName prj1'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
